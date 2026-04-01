@@ -1,5 +1,6 @@
 venv/
 __pycache__/
-data/raw/
+*.pyc
 logs/
-data/serving/
+spark-warehouse/
+stream_data/
